@@ -1,0 +1,7 @@
+*.class
+.cache
+.lib
+.idea/
+target/
+project/project/
+project/target/
